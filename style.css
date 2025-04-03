@@ -23,3 +23,7 @@ html {
 }
 
 /* NEW CSS HERE */
+body {background-color: rgb(228, 135, 140);}
+table {
+  background-color: white;
+}
