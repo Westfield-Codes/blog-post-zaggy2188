@@ -27,4 +27,6 @@ body {background-color: rgb(228, 135, 140);}
 table {
   background-color: white;
 }
-
+p.small {
+  font-weight: bold;
+}
